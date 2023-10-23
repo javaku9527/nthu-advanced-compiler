@@ -1,0 +1,1 @@
+opt -load ./pass.so -hello $1 -o /dev/null
